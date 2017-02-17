@@ -1,0 +1,32 @@
+
+.es_textbox {
+
+	padding-bottom:10px;
+
+}
+
+.es_button {
+
+	padding-top:10px;
+
+	padding-bottom:5px;
+
+}
+
+.es_textbox_class {
+
+	width:200px;
+
+}
+
+.es_textbox_button {
+	color: white;
+    text-align: center;
+    margin-left: 2px;
+    cursor: pointer;
+}
+
+.es_lablebox {
+
+
+}
