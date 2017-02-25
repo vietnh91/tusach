@@ -70,7 +70,7 @@ var es_widget_page_notices = {"es_email_notice":"Vui lòng nhập địa chỉ e
 			<li>
 				<a>
 				<?php
-					$donate_amount = 109102222;
+					$donate_amount = 112502222;
 					$donate_percent = floor($donate_amount / 2000000);
 					echo number_format($donate_amount, 0, '', '.');
 				?>
@@ -78,8 +78,8 @@ var es_widget_page_notices = {"es_email_notice":"Vui lòng nhập địa chỉ e
 				<span>raised</span>
 			</li>
 			<li>
-				<a>170</a>
-				<span>supporters</span>
+				<a>175</a>
+				<span>supporters <a href="http://buff.ly/2ksKTy0" target="_blank"> (check)</a></span>
 			</li>
 			<li>
 				<a><?php echo $donate_percent ?>%</a>
